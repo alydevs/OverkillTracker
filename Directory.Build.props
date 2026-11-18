@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <GamePath>D:/SteamLibrary/steamapps/common/King of the Bridge</GamePath>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+  </PropertyGroup>
+</Project>
