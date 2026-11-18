@@ -1,7 +1,7 @@
 OverkillTracker
 =============
 
-A King Of The Bridge mod template
+A King Of The Bridge mod to help track Overkill progress
 
 Installation
 ------------
